@@ -1,5 +1,5 @@
 '''
-write a python program that checks if a letter exists in a string; if it does
+A python program that checks if a letter exists in a string; if it does
 exist, it prints its index; if it does not exist, it prints a message " the letter is
 not found"
 -Ask the usr to enter the string, and the letter looking for
